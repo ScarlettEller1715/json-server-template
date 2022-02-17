@@ -1,13 +1,13 @@
 {
   "Itinerary": [
     {
-      "id": 1,
-      "origin": "New York City",
-      "destination": "Boston",
-      "distance": 217,
-      "timeInHrs": 3,
-      "timeInMins": 56,
-      "gasCost": 0
+      "id": "b1ef0a55-2f78-4e37-b5cd-483ee2d07480",
+      "origin": "New York",
+      "destination": "New Orleans",
+      "distance": 1303,
+      "totalTime": 1088,
+      "timeString": "18 hours and 8 minutes",
+      "gasCost": "181.59"
     }
   ]
 }
